@@ -1,2 +1,2 @@
 # API-Test
-API test using Github Actions
+API test using Postman collection and Github Actions
