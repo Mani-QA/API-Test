@@ -1,9 +1,6 @@
 name: Newman Github Actions Run
 
-on:
-  pull_request:
-    branches:
-    - master
+on: push
 
 jobs:
   newman:
